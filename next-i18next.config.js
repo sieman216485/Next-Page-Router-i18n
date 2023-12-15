@@ -1,7 +1,7 @@
 /** @type {import('next-i18next').UserConfig} */
 module.exports = {
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'es',
     locales: ['en', 'es', 'fr'],
   },
   /** To avoid issues when deploying to some paas (vercel...) */
